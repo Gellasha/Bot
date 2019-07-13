@@ -1,0 +1,11 @@
+{
+    "prefix": "!",                      
+    "token": "NTY2MjkyMzQ4MzUxNDE0Mjcz.XSo4qw.yGjZWfA7d7Wnz9Tfrw5zJHQYhJc",         
+    "welcomeMsg": "",
+    "welcomeChannelID": "",                   
+    "leaveMsg": "",
+    "leaveChannelID": "",
+    "ready": "Boti Chartulia By Gellasha",
+    "status": "PLAYING",
+    "activity": "client.connect 52.169.21.214:28015"
+}
