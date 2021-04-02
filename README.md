@@ -1,3 +1,2 @@
 # Bot
 Hi 👋
-Bye 🖕
