@@ -1,7 +1,7 @@
 const discord = require('discord.js');
 const {token} = require('./config.json');
 const fs = require('fs');
-
+// suck my dickos
 const bot = new discord.Client()
 bot.commands = new discord.Collection();
 
